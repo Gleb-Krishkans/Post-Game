@@ -1,0 +1,18 @@
+body{
+    background-color: #222738;
+}
+
+.container-my{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    margin-bottom: 20px;
+}
